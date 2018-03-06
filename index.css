@@ -1,4 +1,28 @@
 body {
-  padding: 100px;
-  background-color: grey;
+  padding: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+#js-query, #js-search-button {
+  font-size: 20px;
+  width: 100%;
+  display: block;
+  margin: 5px;
+}
+
+#js-search-button {
+  background-color: skyblue;
+}
+
+a {
+  display: block;
+  font-size: 20px;
+}
+
+label {
+  font-weight: bold;
+  font-size: 20px;
 }
